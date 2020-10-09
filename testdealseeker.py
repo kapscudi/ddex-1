@@ -16,7 +16,7 @@ from libraries.logger import logger
 from libraries.dealseeker import askfall
 
 pair = 'ETH-USDC'
-drop = '0.001'
+drop = '0.03'
 
 # Open websocket connection.
 # Wait for asks to fall in price.
